@@ -22,6 +22,7 @@ ul {
 table {
   width: 50%;
   border-collapse: collapse;
+  border: 5px;
   margin: 20px;
 }
 
